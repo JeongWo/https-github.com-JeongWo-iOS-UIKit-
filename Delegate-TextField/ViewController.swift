@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         self.tf.returnKeyType = UIReturnKeyType.join // 리턴키 타입은 "Join"
         self.tf.enablesReturnKeyAutomatically = true // 리턴키 자동 활성화 "On"
     
+        
         /**
          * 스타일 설정*
          */
